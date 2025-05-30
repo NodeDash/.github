@@ -26,7 +26,7 @@ This organization contains the following repositories:
 | [ux](https://github.com/NodeDash/ux) | Front-end application built with React, TypeScript, Vite, and XY Flow |
 | [api](https://github.com/NodeDash/api) | Backend API for managing flows, users, and interfacing with ChirpStack |
 | [ingest](https://github.com/NodeDash/ingest) | Data ingestion layer that listens to ChirpStack and forwards data into flows |
-| [status-service](https://github.com/NodeDash/status-service) | Monitors health, status, and connectivity of devices |
+| [status](https://github.com/NodeDash/status) | Monitors health, status, and connectivity of devices |
 
 ---
 
