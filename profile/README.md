@@ -23,12 +23,10 @@ This organization contains the following repositories:
 
 | Repository | Description |
 |------------|-------------|
-| [UX](https://github.com/NodeDash/UX) | The front-end application (React, Tailwind, XY Flow) |
-| [API](https://github.com/NodeDash/API) | Backend API (FastAPI or Node) to interact with ChirpStack & persist flow metadata |
-| [ChirpStack-Bridge](https://github.com/NodeDash/ChirpStack-Bridge) | A service that connects ChirpStack events to the NodeDash API |
-| [Docs](https://github.com/NodeDash/Docs) | Documentation site for guides, setup, and developer resources |
-| [K8s](https://github.com/NodeDash/K8s) | Kubernetes manifests and Helm charts for deploying NodeDash |
-| [Docker](https://github.com/NodeDash/Docker) | Docker Compose files and container builds for local development |
+| [ux](https://github.com/NodeDash/ux) | Front-end application built with React, TypeScript, Vite, and XY Flow |
+| [status-service](https://github.com/NodeDash/status-service) | Monitors health, status, and connectivity of devices |
+| [api](https://github.com/NodeDash/api) | Backend API for managing flows, users, and interfacing with ChirpStack |
+| [ingest](https://github.com/NodeDash/ingest) | Data ingestion layer that listens to ChirpStack and forwards data into flows |
 
 ---
 
