@@ -1,24 +1,5 @@
 # NodeDash
 
-<p align="center">
-  <a href="https://www.helium.foundation/grants" aria-label="Funded by Helium Foundation" >
-    <svg xmlns="http://www.w3.org/2000/svg" width="230" height="28" role="img" aria-hidden="true" focusable="false">
-      <rect rx="4" width="230" height="28" fill="#5C33FF"/>
-      <g fill="#fff" text-anchor="middle" font-family="Verdana, sans-serif" font-size="10" dominant-baseline="middle">
-        <text x="115" y="14">Funded by Helium Foundation</text>
-      </g>
-    </svg>
-  </a>
-    <a href="https://github.com/sponsors/nodedash" aria-label="Become a Sponsor">
-    <svg xmlns="http://www.w3.org/2000/svg" width="210" height="28" role="img" aria-hidden="true" focusable="false">
-      <rect rx="4" width="210" height="28" fill="#28a745"/>
-      <g fill="#fff" text-anchor="middle" font-family="Verdana, sans-serif" font-size="10" dominant-baseline="middle">
-        <text x="105" y="14">Become a Sponsor</text>
-      </g>
-    </svg>
-  </a>
-</p>
-
 **NodeDash** is a modular, low-code, flow-based IoT dashboard built for the Helium and ChirpStack ecosystem.
 
 It empowers developers and organizations to visually connect devices, transform data, and forward it to external systems with ease — all without writing backend code.
@@ -84,7 +65,7 @@ We proudly acknowledge those who help make NodeDash possible.
 - 🟣 **Helium Foundation** – Grant provider (initial development)
 
 Want to see your name or organization here?  
-[Sponsor NodeDash on GitHub →](https://github.com/sponsors/nskoglund)
+[Sponsor NodeDash on GitHub →](https://github.com/sponsors/nodedash)
 
 ---
 
