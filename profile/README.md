@@ -1,22 +1,11 @@
 # NodeDash
 
 <p align="center">
-  <a href="https://www.helium.foundation/grants" aria-label="Funded by Helium Foundation" >
-    <svg xmlns="http://www.w3.org/2000/svg" width="230" height="28" role="img" aria-hidden="true" focusable="false">
-      <rect rx="4" width="230" height="28" fill="#5C33FF"/>
-      <g fill="#fff" text-anchor="middle" font-family="Verdana, sans-serif" font-size="10" dominant-baseline="middle">
-        <text x="115" y="14">Funded by Helium Foundation</text>
-      </g>
-    </svg>
+  <a href="https://www.helium.foundation/grants">
+    <img src="https://raw.githubusercontent.com/NodeDash/ux/public/helium-foundation.svg" alt="Funded by Helium Foundation" height="28">
   </a>
-
-  <a href="https://github.com/sponsors/nskoglund" aria-label="Become a Sponsor">
-    <svg xmlns="http://www.w3.org/2000/svg" width="210" height="28" role="img" aria-hidden="true" focusable="false">
-      <rect rx="4" width="210" height="28" fill="#28a745"/>
-      <g fill="#fff" text-anchor="middle" font-family="Verdana, sans-serif" font-size="10" dominant-baseline="middle">
-        <text x="105" y="14">Become a Sponsor</text>
-      </g>
-    </svg>
+  <a href="https://github.com/sponsors/nskoglund">
+    <img src="https://raw.githubusercontent.com/NodeDash/ux/public/become-a-sponsor.svg" alt="Become a Sponsor" height="28">
   </a>
 </p>
 
