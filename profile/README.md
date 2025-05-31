@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.helium.foundation/grants"><img src="https://raw.githubusercontent.com/NodeDash/UX/main/public/helium-foundation.svg" alt="Funded by Helium Foundation" height="28"></a> 
-  <a href="https://github.com/sponsors/nskoglund"><img src="https://raw.githubusercontent.com/NodeDash/UX/main/public/become-a-sponsor.svg" alt="Become a Sponsor" height="28"></a>
+  <a href="https://github.com/sponsors/nodedash"><img src="https://raw.githubusercontent.com/NodeDash/UX/main/public/become-a-sponsor.svg" alt="Become a Sponsor" height="28"></a>
 </p>
 
 **NodeDash** is a modular, low-code, flow-based IoT dashboard built for the Helium and ChirpStack ecosystem.
