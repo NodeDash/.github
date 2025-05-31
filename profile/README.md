@@ -1,4 +1,4 @@
-# 🟦 NodeDash: Open Source IoT Flow Dashboard for ChirpStack & Helium
+# NodeDash: Open Source IoT Flow Dashboard for ChirpStack & Helium
 
 **NodeDash** is a modular, visual dashboard for managing IoT devices on the **Helium Network** using **ChirpStack**. It offers a low-code, flow-based editor to connect devices, transform data, and integrate with external systems.
 
